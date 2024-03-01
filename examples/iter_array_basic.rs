@@ -59,6 +59,7 @@ for a in FONT_DIRS {
     println!("{}",a[3]);
 }
 
+println!("{}",FONT_DIRS[0][3]);
 
 // for a in FONT_DIRS {
 
